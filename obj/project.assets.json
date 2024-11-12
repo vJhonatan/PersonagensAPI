@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sask1\\OneDrive\\Área de Trabalho\\Projetos Csharp\\PersonsApi\\PersonsApi\\PersonagensApi.csproj",
+      "projectUniqueName": "C:\\Users\\sask1\\OneDrive\\Área de Trabalho\\Projetos Csharp\\PersonagensApi\\PersonagensApi\\PersonagensApi.csproj",
       "projectName": "PersonagensApi",
-      "projectPath": "C:\\Users\\sask1\\OneDrive\\Área de Trabalho\\Projetos Csharp\\PersonsApi\\PersonsApi\\PersonagensApi.csproj",
+      "projectPath": "C:\\Users\\sask1\\OneDrive\\Área de Trabalho\\Projetos Csharp\\PersonagensApi\\PersonagensApi\\PersonagensApi.csproj",
       "packagesPath": "C:\\Users\\sask1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sask1\\OneDrive\\Área de Trabalho\\Projetos Csharp\\PersonsApi\\PersonsApi\\obj\\",
+      "outputPath": "C:\\Users\\sask1\\OneDrive\\Área de Trabalho\\Projetos Csharp\\PersonagensApi\\PersonagensApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sask1\\AppData\\Roaming\\NuGet\\NuGet.Config",
